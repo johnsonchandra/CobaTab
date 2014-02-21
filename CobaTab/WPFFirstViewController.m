@@ -20,6 +20,8 @@
 	// Do any additional setup after loading the view, typically from a nib.
     NSLog(@"ini viewDidLoad yang berarti kepanggil beneran");
     NSLog(@"ini bikin di branch coba bikin ranting");
+    NSLog(@"ini yang di aslinya");
+    
 }
 
 - (void)didReceiveMemoryWarning
